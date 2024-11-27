@@ -6,7 +6,7 @@
 <div>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigomourapintodsl&amp;layout=compact&amp;langs_count=7&amp;theme=">
     <img src="https://github-readme-stats.vercel.app/api?username=rodrigomourapintodsl&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;theme=&amp;locale=pt-br">
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigomourapintodsl&amp;layout=compact&amp;langs_count=7&amp;theme=&amp;locale=pt-br">
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigomourapintodsl&hide_progress=true;theme=&amp;locale=pt-br">
   </a>
 </div>
 <div><br>
