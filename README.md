@@ -1,6 +1,6 @@
 <div> 
   <a href="https://github.com/rodrigomourapintodsl/">
-   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&text=Olá!%20Eu%20sou%20Rodrigo,%20Analista%20de%20suporte.&section=header&reversal=false&fontAlignY=22&fontSize=30&rotate=360&descAlign=100&descAlignY=46&animation=scaleIn&textBg=false&fontAlign=50&customColorList=0,2,3">
+   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&text=Olá!%20Eu%20sou%20Rodrigo,%20Analista%20de%20suporte.&section=header&reversal=false&fontAlignY=22&fontSize=30&rotate=360&descAlign=100&descAlignY=46&animation=scaleIn&textBg=false&fontAlign=50&customColorList=2,3,4,12,19">
   </a>
 </div>
 <div>
