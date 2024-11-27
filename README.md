@@ -10,8 +10,7 @@
   </a>
 </div>
 <div><br>
-  <a href="https://github.com/rodrigomourapintodsl/">
-    <img alt="postman" width="40" height="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
-    <img alt="python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-  </a>
+    <img alt="postman"    width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/postman/postman-original.svg">
+    <img alt="postgresql" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/postgresql/postgresql-original.svg">
+    <img alt="python"     width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
