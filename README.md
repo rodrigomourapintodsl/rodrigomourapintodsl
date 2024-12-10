@@ -11,7 +11,7 @@
 </div>
 <div>
   <br><a href="https://www.postgresql.org/about/"><img alt="postgresql" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/postgresql/postgresql-original.svg">
-  </a><a href="https://www.postman.com/rodrigopinto"><img alt="postman" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/postman/postman-original.svg">
+  </a><a href="https://www.postman.com/rodrigomourapinto"><img alt="postman" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/postman/postman-original.svg">
   </a><a href="https://www.soapui.org/"><img alt="SOAPUI" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/swagger/swagger-original.svg">
   </a><a href="https://developer.microsoft.com/pt-br/microsoft-edge/tools/webdriver"><img alt="selenium"   width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/selenium/selenium-original.svg">
   </a><a href="https://www.python.org/"><img alt="python" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
